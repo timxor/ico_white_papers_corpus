@@ -1,0 +1,169 @@
+Chris:
+Adoption or revenue?
+
+Nick Kritikos:
+Few big clients.
+Thinking private appliance
+
+Joe:
+Discussion about revenue or adoption for quite a while.
+Decentralizing tech.
+Ethereum good glue
+EEA very early on wanted to help on mod'ing Ethereum
+Defining clean separations of functionality
+Interfaces
+Select modules - put them together, fit for purpose private blockchain
+
+Long range goal:
+Working with Hyperleger fundation
+Swapping Consensys module in
+
+Public blockchain:
+We are likely to be the best actors in the space.
+Biased towards Ethereum
+Eos Ardana should not be encouraged at this point
+
+1. Focusing on adoption of Ethereum, meaning public + priovate with permissions
+Thinking of global business of multiople chains, several chains together.
+
+Revenue: protocol level, application level
+
+John: opp we have here
+it's so easy for projects like this to not see the value
+Building this functionality so we can see the use case.
+
+Chris: why are we doing what we're doing
+Joe: decentralize WWW
+Chris: precisely. Client is the way we will decentralize.
+
+Dan: plan just articulated has been discussed with most of you already
+nobody should be too surprised
+What else should we be thinking about?
+
+Alessandro Voto: need roadmap for production stack. Need to see the components.
+
+Shahan: right now new client. Will get more involved into the enterprise stack
+Change from just tech dev to enterprise delivery
+Need to work on core techs for the new platform
+Standards team on the ball with EEA
+Getting buyin to help guide how to proceed with the stack
+
+Alessandro: quick related question
+Cross-spoke consistent pluggable Consensys SaaS thing?
+Is Pegasys going to help?
+
+Dan: Mano we talk regularly. Slightly on pause, little early for that.
+Compatibility with existing efforts first.
+
+Shahan: we are workign with the spokes directly.
+Worked with Viant - BPMN tool
+Try to see how we satisfy their needs.
+Dubai SaaS guided us- Jeremy and the EEA vision
+
+Chris: What is the tradeoff -
+growing adoption, developer using us, vs meeting objectives by specific enterprises by the EEA?
+
+Dan:
+Perception between private and public will go away over time.
+Can't do everything at once
+John:
+If I may - Hi, I'm John. I don't really care what you want, I just want to see how you would use our tech.
+
+Jeremy:
+I think before we said we can 
+
+Andreas:
+Music to my ears to be public blockchain compatible
+Pluggable - important, compete with Parity
+POA algorithm very good. Geth didn't have until recently.
+Turing phase 2, this is important.
+Galileo: new project past 2 weeks, systematically to map blockchain universe / industry or activity.
+
+Dan: see us working a lot of spokes.
+
+Chris: going to lead the team, need to find what we are atually going to do. Need to make right decisions.
+So: public first, then look at how to fulfill enterprise use cases
+
+Dan: yeah, not going to fulfill all use cases
+
+Jeremy: protocol engineering. Need to see what projects we can tackle.
+Need a broader range of projects this team should drive.
+
+Joe: what's happened at the EF for the last couple years is disturbing. Resolving itself.
+will be easier to participate going forward
+will blow it open
+new projects significant presence
+
+John: gosh why don't we fork
+
+Jeremy: need to hire more PMs and software devs
+
+Lubin: can't stop people from exploring the space
+
+Dan: and we're going to open source the client, and we will make it easier for people to work
+
+John: need to prioritize. 
+
+Dan: Will need community manager. PRs in Quorum not being addressed.
+
+Joe: Stds at the EEA will allow to align or parallelize efforts
+
+Matthew: should there be one eth client like bitcoin?
+
+Joe: there is plenty of clients. Right now some maintained could subvert somewhat the effort.
+
+Tim: who drives standards? New client implements then standardizes?
+
+Joe: Enterprises should be driving that.
+
+Chris: keep the standard in the future as much as possible - the more we can learn
+committing to standard too early is hard.
+
+Antoine: give to ASF?
+
+Dan: looked at it, no opinion
+
+Tim: so EEA like W3c?
+
+Dan: correct. Same approach with working groups.
+
+Joe: was created because a lot of orgs were rolling their own Ethereum.
+working groups popping up at the application layer for people to create standards
+
+Jim: tech question
+saw the chart
+how do you see this working out - new client working very fast, spec very slow
+
+Peter: working on implementation for a little bit, then backfill into the standards.
+
+Chris: sounds like a nice situation. Works best for us.
+
+Joe: politically very valuable - have an open standards process and sketch drafts.
+
+Chris: concern - maybe not funded in reality - is we have standards that move too fast, and we h
+
+Dan: Robert and Grant working on this. Mid-Jan get draft present to WG end of jan
+Get it done by end Feb.
+Will not run away.
+
+Joe: Quorum not the big problem. We will replace quorum.
+
+Shahan: Constellation shows that it's not possible to standardize.
+
+Matthew: John how did standards hit the development of hyperledger
+
+John: ask Jim
+
+Jim: Over in Hyperleger, there is no spec. Nowhere close to yellow paper.
+
+Steve: Very structured on the structure model, process. No standards thinking.
+Governance model was interesting.
+Leaning on the Linux foundation.
+Shows good level of quality.
+
+Dan: Jim next week is running us through Fabric.
+
+
+
+
+
